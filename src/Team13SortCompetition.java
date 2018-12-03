@@ -22,7 +22,8 @@ public class Team13SortCompetition {
                     pos1 = pos2;
                     pos2 = temp;
                     x++;
-                }
+                    numerr++;
+                    }
             }
         }
     }
